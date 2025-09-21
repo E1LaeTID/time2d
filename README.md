@@ -75,7 +75,7 @@ public:
   static long long theoreticalMaxVertices(int r);
 };
 }
-
+```
 # time2d — Unités, calibration et exemples rapides
 
 ## 1) Unités (référence claire)
